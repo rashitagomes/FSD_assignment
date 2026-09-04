@@ -1,6 +1,6 @@
 #  DOM Notes Manager
 
-A simple and interactive **Notes Manager** built using **HTML, CSS, and JavaScript**. This project demonstrates how JavaScript DOM manipulation can be used to dynamically create, edit, delete, and manage notes on a webpage.
+A simple and interactive **Notes Manager** built using **HTML, CSS, and JavaScript**. This project demonstrates how JavaScript DOM manipulation can be used to dynamically create, edit, delete, and manage notes on a webpage..
 
 
 
